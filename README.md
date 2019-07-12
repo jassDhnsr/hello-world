@@ -1,4 +1,3 @@
 # hello-world
 first repository
-hi there, my name is Jas Dhanesar.
-Enrolled-in program of 2 years.
+Jaspinder Dhanesar/991486065/jassDhnsr/Davis FOR SYST24444 Exercise 3
